@@ -116,8 +116,6 @@
     "adultsPrice": "$1.00",
     "students": "Heavy Vehicles (Pesado)",
     "studentsPrice": "$2.00",
-    "children": "Park Services",
-    "childrenPrice": "Souvenirs, restrooms, and a dining/rest area are available on-site.",
     "card": "Guide Services & Directions",
     "cardPrice": "Local guides are available (mandatory for climbing nearby volcanoes, tipping recommended). Directions: 👉 [Go to Parque Natural Cerro Verde]",
     "officialNotice": "For the latest updates on ticket prices, parking fees, and opening hours, please refer to the",
@@ -350,7 +348,7 @@
   },
   "officialManagement": {
     "title": "About Parque Natural Cerro Verde",
-    "text": "Parque Natural Cerro Verde is a famous natural landscape in Santa Ana Department, featuring spectacular mountain views and rich natural and cultural value."
+    "text": "Parque Natural Cerro Verde is a famous natural attraction in the Santa Ana Department, boasting spectacular mountain views and rich natural and cultural value. It is directly managed and maintained by the Salvadoran Institute of Tourism (ISTU)."
   },
   "historyTimeline": {
     "title": "Historical Timeline",

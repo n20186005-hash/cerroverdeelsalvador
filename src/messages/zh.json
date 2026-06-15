@@ -116,8 +116,6 @@
     "adultsPrice": "$1.00",
     "students": "重型车辆 (Pesado)",
     "studentsPrice": "$2.00",
-    "children": "园区服务",
-    "childrenPrice": "现场可购买纪念品，并设有卫生间及餐饮休息区",
     "card": "导游服务与行动指南",
     "cardPrice": "现场有向导提供服务（攀登周边火山必须有向导陪同，建议给予小费）。行动指南：👉 [前往绿山国家公园 (Ir a Parque Natural Cerro verde)]",
     "officialNotice": "关于最新的门票价格、停车收费及营业时间动态，请查阅",
@@ -350,7 +348,7 @@
   },
   "officialManagement": {
     "title": "关于 Parque Natural Cerro Verde",
-    "text": "Parque Natural Cerro Verde 是圣安娜省的著名自然景观，拥有壮观的山景和丰富的自然文化价值。"
+    "text": "Parque Natural Cerro Verde 是圣安娜省的著名自然景观，拥有壮观的山景和丰富的自然文化价值，由萨尔瓦多国家旅游学会 (ISTU) 直接管理与运营维护。"
   },
   "historyTimeline": {
     "title": "历史变迁时间线",

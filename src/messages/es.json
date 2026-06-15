@@ -116,8 +116,6 @@
     "adultsPrice": "$1.00",
     "students": "Vehículos Pesados",
     "studentsPrice": "$2.00",
-    "children": "Servicios del Parque",
-    "childrenPrice": "Recuerdos, baños y área de descanso/comedor disponibles en el lugar.",
     "card": "Guías e Indicaciones",
     "cardPrice": "Guías locales disponibles (obligatorio para escalar volcanes cercanos, se recomienda propina). Indicaciones: 👉 [Ir a Parque Natural Cerro Verde]",
     "officialNotice": "Para obtener las últimas actualizaciones sobre precios de entradas, tarifas de parqueo y horarios de apertura, consulte el",
@@ -350,7 +348,7 @@
   },
   "officialManagement": {
     "title": "Acerca del Parque Natural Cerro Verde",
-    "text": "El Parque Natural Cerro Verde es un famoso paisaje natural en el departamento de Santa Ana, que cuenta con vistas espectaculares de montaña y rico valor natural y cultural."
+    "text": "El Parque Natural Cerro Verde es una famosa atracción natural en el Departamento de Santa Ana, que cuenta con espectaculares vistas a las montañas y un rico valor natural y cultural. Está directamente administrado y mantenido por el Instituto Salvadoreño de Turismo (ISTU)."
   },
   "historyTimeline": {
     "title": "Cronología Histórica",

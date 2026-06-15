@@ -63,7 +63,6 @@ export default function TicketsSection() {
             <div className="space-y-3">
               <PriceRow label={t('adults')} value={t('adultsPrice')} />
               <PriceRow label={t('students')} value={t('studentsPrice')} />
-              <PriceRow label={t('children')} value={t('childrenPrice')} isFree />
             </div>
           </div>
         </div>
