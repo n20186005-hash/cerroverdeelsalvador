@@ -20,40 +20,40 @@
   },
   "intro": {
     "title": "Explore Parque Natural Cerro Verde",
-    "description": "Parque Natural Cerro Verde is located in Santa Ana Department, El Salvador. It is a beautiful national park with spectacular mountain views and rich ecological environment, making it an important natural protection and tourism attraction in El Salvador.",
+    "description": "Parque Natural Cerro Verde is located in the Santa Ana Department of El Salvador, 77 kilometers from the capital, San Salvador. It is a beautiful national park situated on an extinct volcano. Featuring spectacular volcanic landscapes and a rich cloud forest ecosystem, it is one of El Salvador's most important nature reserves and ecotourism destinations.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "Park open hours: 08:00–17:00",
-        "Wear comfortable walking shoes",
-        "Bring a camera to capture spectacular natural scenery",
-        "Carry enough water and sun protection"
+        "Park is open Monday to Sunday 08:00–20:00",
+        "Comfortable hiking or walking shoes are recommended",
+        "Bring a camera to capture the spectacular panoramas of Izalco and Santa Ana volcanoes",
+        "Carry enough water, insect repellent, and sunscreen"
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Spectacular mountain views: Overlook the entire Santa Ana area and surrounding beautiful scenery.",
-        "Rich ecology: Home to diverse flora and fauna, a paradise for nature lovers.",
-        "Cool climate: High altitude with cool and pleasant climate.",
-        "Prime location: Located in Santa Ana Department with convenient access."
+        "Spectacular Volcanic Landscapes: Features excellent viewpoints for perfect panoramas of Izalco Volcano, Santa Ana Volcano, and Lake Coatepeque.",
+        "Rich Cloud Forest Ecosystem: Home to a variety of endemic flora and fauna (like various orchids and birds), a paradise for nature lovers.",
+        "Cool Climate: At an altitude of about 2030 meters, the climate is pleasantly cool year-round.",
+        "Prime Location: Located in the Santa Ana Department with convenient access, serving as the heart of the 'Volcano Complex'."
       ]
     }
   },
   "route": {
     "title": "Tour Route",
-    "overview": "Discover the ideal route to explore Parque Natural Cerro Verde and experience the essence of natural scenery and El Salvador's ecological conservation.",
+    "overview": "The ideal route to explore Parque Natural Cerro Verde:",
     "steps": [
-      "Start from the entrance and climb up along the main trail.",
-      "Stop at the viewpoint to enjoy spectacular mountain views and panoramic scenery.",
-      "Continue exploring the surrounding nature trails and feel the fresh mountain air.",
-      "Rest at the park's rest area and enjoy the tranquility of nature."
+      "Start at the entrance and walk through the dense cloud forest trails.",
+      "Stop at the main viewpoints to capture stunning panoramic photos.",
+      "Join a guided hiking tour of the surrounding areas.",
+      "Rest in the park's picnic area and enjoy the peace of nature."
     ],
     "supplementsTitle": "Additional Tour Tips",
     "supplements": [
-      "It's recommended to go in the morning to avoid crowds and enjoy fresh air.",
-      "Pay attention to sun protection as UV rays are stronger at high altitudes.",
-      "Please take your trash with you to protect the natural environment."
+      "It's recommended to go in the morning when there's less cloud cover and highest visibility, offering a clearer view of the volcanoes.",
+      "Pay attention to sun protection and warmth, as UV rays are strong and temperatures are lower at high altitudes.",
+      "Please take your trash with you to protect the natural ecological environment."
     ]
   },
   "knowledge": {
@@ -85,54 +85,59 @@
     "country": "Country",
     "countryValue": "El Salvador",
     "city": "City",
-    "cityValue": "Santa Ana Department, El Salvador",
+    "cityValue": "Santa Ana Department (77 km from San Salvador)",
     "googleRating": "Google Rating",
     "address": "Address",
     "addressValue": "R9GG+84V El Salvador",
     "plusCode": "Plus Code",
-    "plusCodeValue": "R9GG+84V El Salvador"
+    "plusCodeValue": "R9GG+84V El Salvador",
+    "phone": "Official Phone",
+    "phoneValue": "+503 7294 7255"
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Park Area",
-    "outdoorTime": "08:00–17:00",
+    "outdoor": "Park Opening Hours",
+    "outdoorTime": "Monday to Sunday 08:00–20:00 (8:00 a.m. a 8:00 p.m)",
     "lighthouse": "Best Time to Visit",
     "summer": "Dry Season (November-April)",
-    "summerTime": "Pleasant weather, ideal for outdoor visits",
+    "summerTime": "Nov-Apr: Clear skies, best visibility",
     "winter": "Rainy Season (May-October)",
-    "winterTime": "Warm weather with afternoon rains, bring umbrella",
+    "winterTime": "May-Oct: Lush vegetation, but afternoon showers are common, bring rain gear and visit in the morning",
     "warning": "Important Notes",
     "warningTime": "Recommended to verify latest information before visiting",
     "tip": "Daytime visits offer the best experience"
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Park Visit",
-    "outdoorPrice": "Free admission",
-    "lighthouse": "Guided Tours",
-    "adults": "On-site guide",
-    "adultsPrice": "Tips appreciated",
-    "students": "Cultural Experience",
-    "studentsPrice": "Many natural landscapes nearby",
-    "children": "Recommendations",
-    "childrenPrice": "Respect the natural environment and protect ecology",
-    "card": "Additional Services",
-    "cardPrice": "Souvenirs available"
+    "title": "Important Information",
+    "outdoor": "Entrance Fee (Entrada)",
+    "outdoorPrice": "Nationals: $1.50 / Foreigners: $3.00",
+    "lighthouse": "Parking Fee (Parqueo)",
+    "adults": "Light Vehicles (Liviano)",
+    "adultsPrice": "$1.00",
+    "students": "Heavy Vehicles (Pesado)",
+    "studentsPrice": "$2.00",
+    "children": "Park Services",
+    "childrenPrice": "Souvenirs, restrooms, and a dining/rest area are available on-site.",
+    "card": "Guide Services & Directions",
+    "cardPrice": "Local guides are available (mandatory for climbing nearby volcanoes, tipping recommended). Directions: 👉 [Go to Parque Natural Cerro Verde]",
+    "officialNotice": "For the latest updates on ticket prices, parking fees, and opening hours, please refer to the",
+    "officialNoticeLinkLabel": "Official ISTU Recreational Parks Tariff Announcement",
+    "officialNoticeLink": "https://istu.gob.sv/blog/2026/01/02/tarifas-y-horarios-en-los-parques-recreativos/"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest airport: El Salvador International Airport (SAL). From there, take a bus or taxi to Santa Ana Department.",
+    "airportDesc": "It is quite far from El Salvador International Airport (SAL). It is recommended to settle in the city or Santa Ana Department before hiring a car or driving there.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "The park is located in Santa Ana Department. Use navigation and check for parking nearby.",
+    "selfDriveDesc": "Located in the Santa Ana Department, 77 km from San Salvador. It is highly recommended to drive or rent a car using navigation. The roads are good, and there is a dedicated paid parking lot at the top.",
     "bus": "Public Transport",
-    "busDesc": "You can take public transport to Santa Ana Department, then walk or take a taxi to the park.",
+    "busDesc": "Long-distance buses to the park are available from Santa Ana or Sonsonate, but pay attention to the schedule.",
     "intercity": "Walking Tour",
     "intercityDesc": "There are walking trails in the park, walkable to various attractions.",
     "cycling": "Other Means",
     "cyclingDesc": "Public transport or driving recommended, convenient transportation around the park.",
     "tips": "Travel Tips",
-    "tipsDesc": "Parque Natural Cerro Verde is an excellent place to experience El Salvador's natural scenery, daytime visits recommended."
+    "tipsDesc": "Parque Natural Cerro Verde is an excellent place to experience El Salvador's natural beauty and a top choice for family trips. Visiting during sunny daylight hours is recommended."
   },
   "gallery": {
     "title": "Stunning Photos",
@@ -353,23 +358,23 @@
       {
         "year": "Early Period",
         "title": "Early Period: Natural Formation",
-        "plaque": "Natural Landscape (Mountains)",
-        "description": "Cerro Verde is a naturally formed spectacular mountain view that has long been a favorite place for local residents."
+        "plaque": "Natural Landscape (Volcano)",
+        "description": "Cerro Verde is an ancient extinct volcano that has evolved over time into a lush cloud forest, long regarded as a natural sacred site by local indigenous people."
       },
       {
         "year": "20th Century",
         "title": "20th Century: Tourism Development",
         "plaque": "Tourism Development (Park Construction)",
-        "description": "With the development of tourism in El Salvador, Cerro Verde gradually became a popular tourist attraction with continuously improving facilities."
+        "description": "With the development of tourism in El Salvador, Cerro Verde gradually built viewpoints and trails, becoming the best and safest location to view neighboring active volcanoes."
       },
       {
         "year": "21st Century",
         "title": "21st Century: Ecotourism Destination",
         "plaque": "Tourism Landmark (Ecotourism)",
-        "description": "In the 21st century, Cerro Verde attracts more and more visitors with its spectacular natural scenery, becoming an important window to experience El Salvador's ecotourism."
+        "description": "In the 21st century, with its excellent facilities and spectacular natural scenery, it has attracted tourists worldwide and become an important calling card for El Salvador's ecotourism."
       }
     ],
     "guideTitle": "Visitor Guide Tip",
-    "guideContent": "When visiting, you can start from the **entrance** to feel the natural atmosphere; then enjoy the spectacular mountain views at the **viewpoint**; next, explore the **nature trails** to feel the fresh mountain air; finally, rest at the **rest area** to deeply understand the important position of these natural landscapes in El Salvador's natural culture."
+    "guideContent": "When visiting, you can start by strolling along the nature trails from the entrance; then stop at various viewpoints to admire the breathtaking twin volcanoes and lake views; if you have enough stamina and time, this is also the starting point for climbing the Santa Ana and Izalco volcanoes. Finally, enjoy local food or coffee in the park's rest area and feel the tranquility of nature."
   }
 }

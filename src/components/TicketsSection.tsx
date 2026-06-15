@@ -82,6 +82,29 @@ export default function TicketsSection() {
             <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('cardPrice')}</p>
           </div>
         </div>
+
+        {/* Official Notice */}
+        {t.has('officialNotice') && (
+          <div className="mt-4 p-4 rounded-xl text-sm flex items-start gap-3" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
+              <circle cx="12" cy="12" r="10"/>
+              <line x1="12" y1="16" x2="12" y2="12"/>
+              <line x1="12" y1="8" x2="12.01" y2="8"/>
+            </svg>
+            <div>
+              <span style={{ color: 'var(--text-secondary)' }}>{t('officialNotice')} </span>
+              <a 
+                href={t('officialNoticeLink')} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="hover:underline font-medium break-all"
+                style={{ color: 'var(--accent)' }}
+              >
+                {t('officialNoticeLinkLabel')}
+              </a>
+            </div>
+          </div>
+        )}
       </div>
     </section>
   );
