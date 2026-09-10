@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#234830"/>
+      <stop offset="1" stop-color="#0f2015"/>
+    </linearGradient>
+  </defs>
+  <!-- 背景 -->
+  <rect width="512" height="512" rx="104" fill="url(#bg)"/>
+  <!-- 太阳 -->
+  <circle cx="388" cy="124" r="44" fill="#f0b429"/>
+  <!-- 主火山（绿山） -->
+  <path d="M64 400 L252 104 L440 400 Z" fill="#e8dfd1"/>
+  <path d="M200 400 L300 228 L400 400 Z" fill="#d4c7b0"/>
+  <!-- 云杉/植被 -->
+  <g fill="#2d5a3d">
+    <rect x="96" y="392" width="320" height="24" rx="12"/>
+    <path d="M128 400 l0 -26 c-18 4 -28 16 -32 26 Z"/>
+    <path d="M220 400 l0 -34 c-22 6 -34 20 -38 34 Z"/>
+    <path d="M310 400 l0 -26 c-18 4 -28 16 -32 26 Z"/>
+    <path d="M398 400 l0 -22 c-14 3 -22 12 -26 22 Z"/>
+  </g>
+</svg>

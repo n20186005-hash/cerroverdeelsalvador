@@ -190,3 +190,17 @@ h1, h2, h3, h4, h5, h6 {
 a {
   transition: color 0.2s ease;
 }
+
+/* FAQ accordion */
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+.faq-item summary {
+  list-style: none;
+}
+.faq-item .faq-icon {
+  transition: transform 0.25s ease;
+}
+.faq-item[open] .faq-icon {
+  transform: rotate(45deg);
+}

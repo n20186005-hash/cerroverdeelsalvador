@@ -1,22 +1,24 @@
 {
   "meta": {
-    "title": "Parque Natural Cerro Verde | Cerro Verde Natural Park",
-    "description": "Explore Parque Natural Cerro Verde in Santa Ana Department, El Salvador. A beautiful national park with spectacular natural scenery and rich ecological environment."
+    "title": "Parque Natural Cerro Verde (Santa Ana) - Visitor Guide & Location",
+    "description": "Discover Parque Natural Cerro Verde, the iconic national park in Santa Ana, Santa Ana Department, El Salvador. View the location map, opening hours, entrance fees, nearby Santa Ana Volcano and Izalco Volcano, and travel tips."
   },
   "header": {
     "home": "Home",
+    "weather": "Weather",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Parque Natural Cerro Verde",
-    "subtitle": "Cerro Verde Natural Park · El Salvador",
+    "title": "Parque Natural Cerro Verde (Santa Ana)",
+    "subtitle": "Cerro Verde Natural Park · Santa Ana, El Salvador",
     "rating": "4.7",
-    "reviewCount": "6,784",
+    "reviewCount": "6,892",
     "hours": "National Park",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imageAlt": "Parque Natural Cerro Verde - Main view in Santa Ana, El Salvador"
   },
   "intro": {
     "title": "Explore Parque Natural Cerro Verde",
@@ -218,8 +220,8 @@
     ]
   },
   "mapSection": {
-    "title": "Location & Map",
-    "subtitle": "R9GG+84V El Salvador",
+    "title": "Location & How to Visit Cerro Verde in Santa Ana",
+    "subtitle": "R9GG+84V Santa Ana, El Salvador",
     "openMaps": "View on Google Maps"
   },
   "footer": {
@@ -250,7 +252,8 @@
         "url": "https://www.migracion.gob.sv"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageCredit": "Image Credits: All images displayed on this website are the property of their respective photographers. Image copyrights belong to the original photographers."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -351,7 +354,7 @@
     "text": "Parque Natural Cerro Verde is a famous natural attraction in the Santa Ana Department, boasting spectacular mountain views and rich natural and cultural value. It is directly managed and maintained by the Salvadoran Institute of Tourism (ISTU)."
   },
   "historyTimeline": {
-    "title": "Historical Timeline",
+    "title": "History & Significance of Parque Natural Cerro Verde",
     "items": [
       {
         "year": "Early Period",
@@ -374,5 +377,328 @@
     ],
     "guideTitle": "Visitor Guide Tip",
     "guideContent": "When visiting, you can start by strolling along the nature trails from the entrance; then stop at various viewpoints to admire the breathtaking twin volcanoes and lake views; if you have enough stamina and time, this is also the starting point for climbing the Santa Ana and Izalco volcanoes. Finally, enjoy local food or coffee in the park's rest area and feel the tranquility of nature."
+  },
+  "weather": {
+    "title": "Live Weather & 7-Day Forecast",
+    "subtitle": "The park sits on a volcanic plateau around 2,030 m above sea level, where weather changes faster than in the city: afternoon showers are common and the summit is windy and cool. Check today and the next 7 days before you set off.",
+    "current": "Now",
+    "feels": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "windUnit": "km/h",
+    "precipitation": "Rainfall",
+    "precipNone": "None",
+    "updated": "Updated",
+    "forecastTitle": "7-Day Forecast",
+    "forecastDays": "{count} days",
+    "today": "Today",
+    "loading": "Fetching live weather…",
+    "unavailable": "Live weather is temporarily unavailable. Please refresh the page shortly.",
+    "cond": {
+      "sunny": "Sunny",
+      "partly": "Partly cloudy",
+      "cloudy": "Cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "showers": "Showers",
+      "thunder": "Thunderstorms",
+      "snow": "Snow",
+      "freezing": "Freezing rain"
+    },
+    "panelTitle": "What to Know Today",
+    "autoLabel": "Auto tips for today's weather",
+    "outfitLabel": "What to wear",
+    "planLabel": "What to do",
+    "gearLabel": "What to bring",
+    "riskTitle": "Risk alert",
+    "neutral": "Conditions look calm today — nothing special to flag. As always on the summit, pack a light jacket for the wind and sunscreen for the strong altitude sun.",
+    "adv": {
+      "pSunny": "Clear skies are ideal for the volcano panorama: visibility is at its best in the early morning for Izalco Volcano, Santa Ana Volcano and Lake Coatepeque.",
+      "pOvercast": "Overcast light is soft and glare-free, great for a long cloud-forest walk; trails stay damp, so watch your footing.",
+      "oPrecip": "Rain chance around {p}%: take some rain gear with you — it packs small.",
+      "pPrecip": "Mountain showers usually arrive after noon: do the main cloud-forest trails in the morning and keep the afternoon flexible.",
+      "gPrecip": "Compact umbrella or light rain jacket (a jacket suits the summit wind better)",
+      "oDrizzle": "Light rain or drizzle: with mountain winds an umbrella is awkward — a waterproof jacket works better.",
+      "pDrizzle": "Wet boardwalks get slippery — slow down in grippy shoes; the misty forest has its own quiet charm.",
+      "gDrizzle": "Light rain jacket or compact umbrella",
+      "pThunder": "Thunderstorms: leave the crater rim, open viewpoints and tall trees at once; shelter in your vehicle or a park building.",
+      "pHvyRain": "Heavy rain: stay on main trails and avoid steep valleys or poorly drained spots; if sections of trail close, follow the on-site guidance.",
+      "gHvyRain": "Waterproof jacket (and rain trousers); skip the long umbrella — summit winds will turn it inside out",
+      "pFog": "Morning cloud is common: if volcano views are your goal, wait until after about 9 a.m., when the mist usually lifts.",
+      "pWindMid": "Windy: gusts are strongest at the crater and viewpoints — don't linger in exposed spots and hold gear steady when shooting.",
+      "gWindMid": "A hat with a chin strap; avoid loose, flappy clothing",
+      "oHeat": "It turns warm around midday: light, breathable quick-dry layers beat heavy clothing.",
+      "pHeat": "Avoid 11:00–14:00 in the hottest, most exposed areas; save hiking for early morning or late afternoon.",
+      "gHeat": "Plenty of drinking water; electrolytes or heat-protection items are a bonus",
+      "pUv": "UV is very strong: limit time in open sun around noon and reapply sunscreen every 2 hours.",
+      "gUv": "Sunscreen, wide-brim hat and sunglasses (UV is strong at altitude — even on overcast days)",
+      "oDiff": "Temperatures swing about {diff}°C between night and day: a light layer for dawn and dusk.",
+      "oLowMax": "High of only about {max}°C today — dress warm: a thick jacket or fleece.",
+      "gLowMax": "Warm hat, scarf and hot drinks",
+      "oCoolNow": "It is about {now}°C right now: a long-sleeve plus a light jacket fits the bill; shed layers as it warms up.",
+      "gCoolNow": "Windproof light jacket",
+      "rThunder": "Lightning safety: during a storm stay off the crater rim, summit and open viewpoints; move to your vehicle or a park building.",
+      "rHeavyRain": "Heavy rain: trails turn slick and valleys can flood; sections of trail may close temporarily — follow on-site notices.",
+      "rWind": "Strong wind: gusts at the crater and cliff viewpoints are intense — stay back from the edge, hold the railing and avoid dead trees or temporary structures.",
+      "rFog": "Thick fog or low cloud: visibility is poor and volcano views may be hidden — stay on the main trails and never wander off route.",
+      "rSnow": "Cold precipitation (snow or freezing rain): icy surfaces are likely — dress warmly and check trail or park notices.",
+      "pSnow": "Snow or freezing rain makes trails cold and slippery: skip hiking, wait in the visitor area and watch for park updates."
+    }
+  },
+  "services": {
+    "title": "Visitor Services & Nearby Facilities",
+    "subtitle": "Practical information organised by type of service — neutral and vendor-neutral, with no specific business recommendations.",
+    "note": "Note: the park is mountainous with fairly limited facilities; bring water and snacks before you arrive. Always confirm what is available on site.",
+    "items": [
+      {
+        "name": "Restrooms & park service point",
+        "description": "Restrooms and a visitor service point stand at the entrance — the last place to ask questions and stock up before you set out."
+      },
+      {
+        "name": "Parking",
+        "description": "The main lot charges by vehicle type. Spaces fill quickly at weekends and holidays, so arriving early helps."
+      },
+      {
+        "name": "Food & drinks",
+        "description": "Light meals, snacks and coffee are available in and around the park for a post-visit break; bringing your own snacks and water is the safest bet."
+      },
+      {
+        "name": "Accommodation",
+        "description": "The park and its surroundings offer mountain lodges and campsites; for more services head to the towns in the valley and confirm they are open before booking."
+      },
+      {
+        "name": "Shops & supermarkets",
+        "description": "Towns below the mountain have supermarkets and convenience stores — buy snacks and water before driving up."
+      },
+      {
+        "name": "Fuel & EV charging",
+        "description": "The access road is a mountain road: fill up in the valley first. EV drivers should confirm charging types and the nearest stations in advance."
+      },
+      {
+        "name": "Medical & emergency",
+        "description": "Mountain medical resources are limited — bring your own medication and call local emergency numbers in case of need."
+      }
+    ]
+  },
+  "seasons": {
+    "title": "Seasonal Visiting Guide",
+    "subtitle": "A look at long-term climate patterns across weather, nature and experience to help you choose the right time to visit.",
+    "colHeaders": [
+      "Season",
+      "Weather & climate",
+      "Nature & wildlife",
+      "Visiting advice"
+    ],
+    "rows": [
+      {
+        "title": "Dry season",
+        "window": "November – April",
+        "weather": "Mostly clear, little rain and high visibility; strong summit sun by day and noticeably cool mornings and evenings.",
+        "nature": "The cloud forest is at its driest and viewpoints are at their clearest — volcano panoramas and the lake in full view.",
+        "advice": "The best season overall. Cloud cover is thinnest from 8–9 a.m.; plan hiking and viewpoints for the morning."
+      },
+      {
+        "title": "Rainy season",
+        "window": "May – October",
+        "weather": "A rhythm of clear mornings and afternoon showers; humid air and mostly short-lived rain.",
+        "nature": "Vegetation and orchids are at their most lush, waterfalls run full and birds are active — greenest time of year.",
+        "advice": "Go in the morning and carry a waterproof jacket; shelter in the visitor area or a building when a shower passes."
+      }
+    ],
+    "note": "These are long-term averages. For a single day, check the live weather and 7-day forecast at the top of this page."
+  },
+  "personas": {
+    "title": "Plans Tailored to How You Travel",
+    "subtitle": "Whether you visit with kids, for photography, or at an easy pace, the cloud forest can be matched to your rhythm.",
+    "timeLabel": "Suggested time",
+    "levelLabel": "Physical level",
+    "items": [
+      {
+        "name": "Family & Kids, Easy",
+        "audience": "Families",
+        "time": "About 3–4 hours",
+        "level": "Easy",
+        "summary": "Viewpoints, a short cloud-forest loop and a picnic — a relaxed pace that leaves time for kids to watch orchids, birds and butterflies.",
+        "points": [
+          "Start at the main viewpoint: kids love Izalco Volcano's perfect cone",
+          "Walk the short cloud-forest loop (about 40 min); hold hands on damp trails",
+          "Bring snacks and plenty of water; refill at the picnic area",
+          "Grippy shoes and sun-protective long sleeves for kids, plus a light jacket for the wind"
+        ]
+      },
+      {
+        "name": "Photography & Nature",
+        "audience": "Photographers · Nature lovers",
+        "time": "Half day to full day",
+        "level": "Moderate",
+        "summary": "Morning seas of cloud, afternoon light between the trees, orchids and hummingbirds — give it time and the forest rewards you.",
+        "points": [
+          "6–9 a.m. is the best window for cloud seas and soft light — claim your spot early",
+          "Telephoto for volcanoes and birds; macro for orchids and dew",
+          "Summit winds are constant: use a sturdy tripod and keep lens hoods secure",
+          "Overcast light is actually great for the forest interior — don't wait only for blue skies"
+        ]
+      },
+      {
+        "name": "Easy Pace & Accessibility",
+        "audience": "Seniors · Limited mobility",
+        "time": "About 2–3 hours",
+        "level": "Low",
+        "summary": "The main parking area sits close to the key viewpoints, so a little walking brings open views; the park is still mountain terrain with slopes on some trails — go at your own pace.",
+        "points": [
+          "Park in the main lot and take the shortest route to the viewpoints",
+          "Bring a seat or walking pole and rest often",
+          "For wheelchairs or walkers, contact the visitor point in advance to confirm accessible sections",
+          "Mornings and wet days are cooler — dress warmly and watch for slippery ground"
+        ]
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Recommended Self-Guided Routes",
+    "subtitle": "Two tried-and-tested general routes — one for a limited schedule, one for a deeper visit.",
+    "timeLabel": "Suggested time",
+    "levelLabel": "Intensity",
+    "plans": [
+      {
+        "title": "Half-Day Highlights",
+        "time": "About 4 hours",
+        "level": "Low–moderate",
+        "summary": "Focus on the best of it: a short cloud-forest loop, the main viewpoint panorama and a scenic picnic — no rush.",
+        "steps": [
+          "Arrive before 8:00 a.m. (easier parking, thinnest morning cloud)",
+          "Warm up on the short cloud-forest trail (about 40 minutes)",
+          "Enjoy the panorama of Izalco, Santa Ana and Lake Coatepeque from the main viewpoint (about 40 minutes)",
+          "Recharge at the picnic area or a coffee spot",
+          "Take a last look from the viewpoint near the exit, gather your things and head back"
+        ]
+      },
+      {
+        "title": "Full-Day Deep Route",
+        "time": "About 8–9 hours",
+        "level": "Higher",
+        "summary": "If your fitness allows, join a guided climb of Santa Ana or Izalco Volcano with Cerro Verde as your base.",
+        "steps": [
+          "Arrive at 7:30 and confirm guide meet-up time and gear requirements",
+          "Climb the neighbouring volcano with your guide (about 4–6 hours round trip, including summit time)",
+          "Lunch and rest after descending; refill water",
+          "Return to Cerro Verde for a short trail or viewpoint time as the light changes",
+          "Wrap up before sunset and allow time for the drive back"
+        ]
+      }
+    ],
+    "tips": [
+      "At altitude, walk slowly and drink water in small sips often",
+      "Dry-season mornings can drop to 10–12°C — bring layers",
+      "In the rainy season, hike in the morning and keep afternoons flexible",
+      "Stay on officially open trails and off the vegetation",
+      "Volcano climbs must be led by a licensed guide — never go alone"
+    ]
+  },
+  "science": {
+    "title": "Cloud Forest Science & Visitor Responsibility",
+    "subtitle": "Understand the cloud forest before you go, and every footstep gets a little lighter.",
+    "topics": [
+      {
+        "title": "Where the clouds come from",
+        "body": "Moist Pacific air is pushed up the mountain, cools and condenses into the clouds that wrap the summit for much of the year — that is where the cloud forest gets its name. The damp feeds mosses, ferns and orchids on every trunk and keeps the forest floor soft and humid."
+      },
+      {
+        "title": "A forest that grew on a dead volcano",
+        "body": "Cerro Verde is a long-dormant volcano; over millions of years weathering built soil and the slopes turned to forest. Neighbouring Santa Ana Volcano is still active — together they form a natural classroom for the life cycle of volcanoes."
+      },
+      {
+        "title": "An oasis on a migration corridor",
+        "body": "Central America is a key corridor for species moving between the Americas, and cloud forests act as oases along the way: orchids, bromeliads, hummingbirds and migratory birds all depend on these wet mountain woodlands."
+      }
+    ],
+    "dutyTitle": "Every visitor's responsibility",
+    "duties": [
+      "Walk only on officially open trails and never into the vegetation",
+      "Do not pick orchids or plants; do not disturb or feed wildlife",
+      "Take all your rubbish with you — leave no trace",
+      "Do not climb over barriers at the crater rim or cliff viewpoints",
+      "During thunderstorms or high winds, follow park instructions and leave promptly"
+    ],
+    "note": "Carry the beauty home in your memory — and leave only footprints on the trail."
+  },
+  "stories": {
+    "title": "The Name of the Green Mountain: A Valley Legend",
+    "text": "Cerro Verde means “Green Mountain.” In stories passed down through generations here, the dormant volcano forever wrapped in cloud and green is remembered as a guardian watching over Lake Coatepeque and the volcanic plain below. When Izalco growled in the night and lit the sky, people would look to Cerro Verde — still quietly wearing its green — a reminder that this land, restless as it can be, is also rich and worth protecting. Today it is a national park, where orchids, pines and endless birdsong continue to grow, carrying that legendary “guardian green” into real conservation."
+  },
+  "seo": {
+    "crumbLabel": "Geographic hierarchy",
+    "aboutTitle": "About Parque Natural Cerro Verde (Santa Ana)",
+    "aboutLead": "Welcome to **Parque Natural Cerro Verde**, widely recognized as the **Cerro Verde** national park destination. Located in the heart of **Santa Ana**, **Santa Ana Department**, **El Salvador**, this destination serves as a primary hub for travelers visiting the region. The park stands on an extinct volcano at about 2,030 metres, protecting a lush cloud forest and offering panoramic viewpoints over Izalco Volcano, Santa Ana Volcano and Lake Coatepeque.",
+    "crumbs": [
+      "Parque Natural Cerro Verde",
+      "Santa Ana",
+      "Santa Ana Department",
+      "El Salvador"
+    ],
+    "nearbyTitle": "Landmarks & Attractions Around Cerro Verde",
+    "nearbySubtitle": "Points of interest reachable from Parque Natural Cerro Verde",
+    "nearbyIntro": "When visiting **Parque Natural Cerro Verde**, visitors can easily explore surrounding natural landmarks and points of interest, including **Santa Ana Volcano** and **Izalco Volcano**.",
+    "nearby": [
+      {
+        "name": "Santa Ana Volcano (Volcán Ilamatepec)",
+        "description": "El Salvador's tallest volcano (2,381 m) and the park's next-door neighbour. From Cerro Verde you can join a guided hike up to its crater, one of the country's most rewarding volcano experiences."
+      },
+      {
+        "name": "Izalco Volcano (Volcán de Izalco)",
+        "description": "A young, near-perfect cone nicknamed the 'Lighthouse of the Pacific'. The viewpoints inside the park offer some of the best panoramas of its iconic silhouette."
+      },
+      {
+        "name": "Lake Coatepeque (Lago de Coatepeque)",
+        "description": "A vast volcanic crater lake just a short drive from the park, ideal for swimming, boating and relaxing after a morning exploring Cerro Verde."
+      }
+    ],
+    "faqTitle": "Frequently Asked Questions",
+    "faqSubtitle": "Everything you need to know before visiting Parque Natural Cerro Verde",
+    "faq": [
+      {
+        "q": "Where is Parque Natural Cerro Verde located?",
+        "a": "Parque Natural Cerro Verde is located in Santa Ana Department, El Salvador, about 77 km from San Salvador. The Google Maps plus code is R9GG+84V, Santa Ana, El Salvador."
+      },
+      {
+        "q": "Is Cerro Verde free to visit?",
+        "a": "No, Parque Natural Cerro Verde charges an entrance fee set by the Salvadoran Institute of Tourism (ISTU): US$1.50 for nationals and US$3.00 for foreigners. Parking costs US$1.00 for light vehicles and US$2.00 for heavy vehicles. Fees may change, so please check the official announcement before your visit."
+      },
+      {
+        "q": "What is the best time to visit Parque Natural Cerro Verde?",
+        "a": "The best time is the dry season (November to April), especially in the morning when the sky is clearest and you can see Izalco Volcano, Santa Ana Volcano and Lake Coatepeque in full view."
+      },
+      {
+        "q": "Do I need a guide to climb the volcanoes from Cerro Verde?",
+        "a": "Yes, guided hikes are required to climb nearby volcanoes such as Santa Ana Volcano and Izalco Volcano. Guides can be arranged at the park, and a tip is appreciated."
+      },
+      {
+        "q": "How do I get to Parque Natural Cerro Verde from San Salvador?",
+        "a": "The park is about 77 km from San Salvador. Most visitors drive or hire a car and follow navigation to Parque Natural Cerro Verde. Public buses from Santa Ana or Sonsonate also serve the area."
+      },
+      {
+        "q": "How long should I spend at Parque Natural Cerro Verde?",
+        "a": "Half a day is enough to walk the cloud forest trails and enjoy the viewpoints. Allow a full day if you also plan a guided ascent of Santa Ana Volcano or Izalco Volcano."
+      }
+    ],
+    "sourcesTitle": "Sources & References",
+    "sourcesSubtitle": "Official and reference sources used to compile this guide",
+    "sourcesNote": "For official updates and regional tourism information, visit the <a href='https://elsalvador.travel/esp/' target='_blank' rel='noopener noreferrer'>El Salvador Official Tourism Portal</a>.",
+    "sources": [
+      {
+        "name": "Official ISTU Tariff & Hours Announcement (Recreational Parks)",
+        "url": "https://istu.gob.sv/blog/2026/01/02/tarifas-y-horarios-en-los-parques-recreativos/"
+      },
+      {
+        "name": "Ministry of Tourism of El Salvador (MITUR)",
+        "url": "https://elsalvador.travel/esp/"
+      },
+      {
+        "name": "Google Maps - Parque Natural Cerro Verde",
+        "url": "https://maps.app.goo.gl/KcX4LexdqM6CahTi6"
+      }
+    ]
   }
 }

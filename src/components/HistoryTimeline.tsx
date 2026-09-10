@@ -1,12 +1,14 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function HistoryTimeline() {
   const t = useTranslations('historyTimeline');
-  
-  // Create an array for the items to iterate easily
-  const items = [0, 1, 2];
+  const s = useTranslations('stories');
+  const messages = useMessages() as any;
+  const itemCount = (messages?.historyTimeline?.items?.length as number | undefined) ?? 3;
+  // 依据文案条目数量渲染（便于后续补充时间线节点）
+  const items = Array.from({ length: itemCount }, (_, i) => i);
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-primary)' }}>
@@ -54,6 +56,14 @@ export default function HistoryTimeline() {
             __html: t('guideContent')
               .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--text-primary)">$1</strong>')
           }} />
+        </div>
+
+        {/* 名称由来与故事 */}
+        <div className="rounded-xl p-6 md:p-8 mt-6" style={{ background: 'var(--bg-tertiary)', border: '1px dashed var(--accent)' }}>
+          <h4 className="text-lg font-bold mb-3" style={{ color: 'var(--text-primary)' }}>
+            {s('title')}
+          </h4>
+          <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{s('text')}</p>
         </div>
       </div>
     </section>

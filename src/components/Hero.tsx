@@ -1,16 +1,17 @@
 import { useTranslations } from 'next-intl';
+import { site } from '@/config/site';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const mapsUrl = "https://maps.app.goo.gl/KcX4LexdqM6CahTi6";
+  const mapsUrl = site.mapsUrl;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/parque-natural-cerro-verde (1).jpg"
-          alt="Parque Natural Cerro Verde"
+          src={site.heroImagePath}
+          alt={t('imageAlt')}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />

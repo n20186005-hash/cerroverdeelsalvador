@@ -1,0 +1,28 @@
+{
+  "name": "Parque Natural Cerro Verde (Santa Ana) - Visitor Guide & Location",
+  "short_name": "Cerro Verde",
+  "description": "Visitor guide to Parque Natural Cerro Verde in Santa Ana, El Salvador: location map, opening hours, entrance fees, nearby volcanoes and travel tips.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf8f4",
+  "theme_color": "#234830",
+  "lang": "es",
+  "categories": ["travel", "tourism"],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

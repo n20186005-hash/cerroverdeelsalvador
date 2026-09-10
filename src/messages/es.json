@@ -1,22 +1,24 @@
 {
   "meta": {
-    "title": "Parque Natural Cerro Verde | Cerro Verde",
-    "description": "Explora el Parque Natural Cerro Verde en el departamento de Santa Ana, El Salvador. Un hermoso parque nacional con paisajes naturales espectaculares y rico ambiente ecológico."
+    "title": "Parque Natural Cerro Verde (Santa Ana) - Guía del Visitante y Ubicación",
+    "description": "Descubre el Parque Natural Cerro Verde, el icónico parque nacional en Santa Ana, Departamento de Santa Ana, El Salvador. Consulta el mapa de ubicación, horarios de apertura, tarifas de entrada, los cercanos volcanes de Santa Ana e Izalco y consejos de viaje."
   },
   "header": {
     "home": "Inicio",
+    "weather": "Clima",
     "gallery": "Galería",
     "reviews": "Reseñas",
     "map": "Mapa",
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Parque Natural Cerro Verde",
-    "subtitle": "Cerro Verde · El Salvador",
+    "title": "Parque Natural Cerro Verde (Santa Ana)",
+    "subtitle": "Cerro Verde · Santa Ana, El Salvador",
     "rating": "4.7",
-    "reviewCount": "6,784",
+    "reviewCount": "6,892",
     "hours": "Parque Nacional",
-    "openMaps": "Ver Ubicación"
+    "openMaps": "Ver Ubicación",
+    "imageAlt": "Parque Natural Cerro Verde - Vista principal en Santa Ana, El Salvador"
   },
   "intro": {
     "title": "Explora el Parque Natural Cerro Verde",
@@ -218,8 +220,8 @@
     ]
   },
   "mapSection": {
-    "title": "Ubicación y Mapa",
-    "subtitle": "R9GG+84V El Salvador",
+    "title": "Ubicación y Cómo Visitar Cerro Verde en Santa Ana",
+    "subtitle": "R9GG+84V Santa Ana, El Salvador",
     "openMaps": "Ver en Google Maps"
   },
   "footer": {
@@ -250,7 +252,8 @@
         "url": "https://www.migracion.gob.sv"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "imageCredit": "Créditos de las Imágenes: Todas las imágenes mostradas en este sitio web pertenecen a sus respectivos fotógrafos. Los derechos de autor de las imágenes pertenecen a los fotógrafos originales."
   },
   "privacy": {
     "title": "Política de Privacidad",
@@ -351,7 +354,7 @@
     "text": "El Parque Natural Cerro Verde es una famosa atracción natural en el Departamento de Santa Ana, que cuenta con espectaculares vistas a las montañas y un rico valor natural y cultural. Está directamente administrado y mantenido por el Instituto Salvadoreño de Turismo (ISTU)."
   },
   "historyTimeline": {
-    "title": "Cronología Histórica",
+    "title": "Historia e Importancia del Parque Natural Cerro Verde",
     "items": [
       {
         "year": "Período Inicial",
@@ -374,5 +377,328 @@
     ],
     "guideTitle": "Consejo de Guía para Visitantes",
     "guideContent": "Al visitar, puede comenzar paseando por los senderos naturales desde la entrada; luego detenerse en los miradores para admirar las impresionantes vistas de los volcanes gemelos y el lago; si tiene suficiente energía y tiempo, este es también el punto de partida para escalar los volcanes de Santa Ana e Izalco. Finalmente, disfrute de la comida local o un café en el área de descanso del parque y sienta la tranquilidad de la naturaleza."
+  },
+  "weather": {
+    "title": "Clima en vivo y pronóstico de 7 días",
+    "subtitle": "El parque se encuentra en una meseta volcánica a unos 2 030 m de altitud, donde el tiempo cambia más rápido que en la ciudad: lloviznas por la tarde, viento en la cumbre y mañanas frescas. Revisa el clima de hoy y de los próximos 7 días antes de salir.",
+    "current": "Ahora",
+    "feels": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "windUnit": "km/h",
+    "precipitation": "Precipitación",
+    "precipNone": "Sin lluvia",
+    "updated": "Actualizado",
+    "forecastTitle": "Pronóstico de 7 días",
+    "forecastDays": "{count} días",
+    "today": "Hoy",
+    "loading": "Obteniendo el clima en vivo…",
+    "unavailable": "El clima en vivo no está disponible por ahora. Recarga la página en unos minutos.",
+    "cond": {
+      "sunny": "Despejado",
+      "partly": "Parcialmente nublado",
+      "cloudy": "Nublado",
+      "overcast": "Cubierto",
+      "fog": "Niebla",
+      "drizzle": "Llovizna",
+      "rain": "Lluvia",
+      "showers": "Chubascos",
+      "thunder": "Tormenta",
+      "snow": "Nieve",
+      "freezing": "Lluvia helada"
+    },
+    "panelTitle": "Consejos para hoy",
+    "autoLabel": "Se generan según el clima de hoy",
+    "outfitLabel": "Qué vestir",
+    "planLabel": "Qué hacer",
+    "gearLabel": "Qué llevar",
+    "riskTitle": "Aviso de riesgo",
+    "neutral": "Hoy el tiempo está tranquilo, sin avisos especiales. Como siempre en la cumbre: lleva una chaqueta ligera para el viento y protector solar para los rayos de la altitud.",
+    "adv": {
+      "pSunny": "Un día despejado es ideal para el panorama volcánico: la visibilidad es mejor por la mañana temprano para ver Izalco, Santa Ana y el Lago de Coatepeque.",
+      "pOvercast": "Con cielo cubierto la luz es suave y sin reflejos: perfecto para recorrer el bosque nuboso; los senderos pueden estar húmedos, así que mira dónde pisas.",
+      "oPrecip": "Probabilidad de lluvia de {p}%: lleva algo de impermeable, no ocupa casi nada.",
+      "pPrecip": "Los aguaceros de montaña suelen llegar después del mediodía: haz los senderos principales del bosque nuboso por la mañana y deja la tarde flexible.",
+      "gPrecip": "Paraguas compacto o chaqueta de lluvia ligera (la chaqueta aguanta mejor el viento de la cumbre)",
+      "oDrizzle": "Llovizna ligera: con el viento de la montaña el paraguas es incómodo, mejor una chaqueta impermeable.",
+      "pDrizzle": "Las pasarelas mojadas resbalan: camina despacio con calzado de agarre; el bosque entre niebla ligera tiene su propio encanto.",
+      "gDrizzle": "Chaqueta de lluvia ligera o paraguas compacto",
+      "pThunder": "Tormentas: sal de inmediato del borde del cráter, las vistas abiertas y los árboles altos; refúgiate en tu vehículo o en los edificios del parque.",
+      "pHvyRain": "Lluvia fuerte: quédate en los senderos principales y evita valles empinados o zonas mal drenadas; si cierran tramos, sigue las indicaciones del personal.",
+      "gHvyRain": "Chaqueta impermeable (y pantalón de lluvia); evita el paraguas largo: el viento de la cumbre lo voltea",
+      "pFog": "La niebla matinal es habitual: si quieres ver los volcanes, espera a después de las 9 de la mañana, cuando suele disiparse.",
+      "pWindMid": "Hace viento: las ráfagas son más fuertes en el cráter y los miradores; no te quedes en zonas expuestas y sujeta bien la cámara al fotografiar.",
+      "gWindMid": "Gorro con correa; evita ropa suelta que el viento levante",
+      "oHeat": "Al mediodía hace calor: ropa ligera, transpirable y de secado rápido.",
+      "pHeat": "Evita las horas de 11:00 a 14:00 en las zonas más expuestas; camina a primera hora o a última de la tarde.",
+      "gHeat": "Suficiente agua; de más llevar sales o protección contra el calor",
+      "pUv": "Radiación ultravioleta muy fuerte: limita el sol abierto al mediodía y reaplica protector solar cada 2 horas.",
+      "gUv": "Protector solar, sombrero de ala ancha y gafas de sol (en la altitud el sol quema incluso con nubes)",
+      "oDiff": "La temperatura varía unos {diff}°C entre el día y la noche: una capa ligera para el amanecer y el anochecer.",
+      "oLowMax": "Máxima de solo unos {max}°C hoy: abrígate con chaqueta gruesa o forro polar.",
+      "gLowMax": "Gorro térmico, bufanda y bebida caliente",
+      "oCoolNow": "Ahora hay unos {now}°C: manga larga más chaqueta ligera es lo ideal; puedes quitarte capas cuando caliente el sol.",
+      "gCoolNow": "Chaqueta ligera cortaviento",
+      "rThunder": "Precaución con rayos: durante la tormenta no te quedes en el borde del cráter, la cumbre ni los miradores abiertos; ve a tu vehículo o a un edificio del parque.",
+      "rHeavyRain": "Lluvia intensa: los senderos se vuelven resbaladizos y los valles pueden inundarse; es posible que cierren tramos temporalmente — sigue los avisos en el lugar.",
+      "rWind": "Viento fuerte: las ráfagas en el cráter y en los miradores del acantilado son intensas; aléjate del borde, sujeta la barandilla y evita árboles secos o estructuras temporales.",
+      "rFog": "Niebla espesa o nube baja: poca visibilidad y las vistas pueden estar ocultas; mantente en los senderos principales y nunca te salgas de la ruta.",
+      "rSnow": "Precipitación fría (nieve o lluvia helada): superficies heladas probables; abrígate y revisa los avisos del parque.",
+      "pSnow": "Con nieve o lluvia helada los senderos están fríos y resbaladizos: evita las caminatas, espera en la zona de visitantes y mira los avisos del parque."
+    }
+  },
+  "services": {
+    "title": "Servicios al visitante y alrededores",
+    "subtitle": "Información práctica ordenada por tipo de servicio, neutral y sin recomendar negocios concretos.",
+    "note": "Aviso: el parque está en la montaña y sus servicios son limitados; lleva agua y comida antes de entrar. Confirma siempre lo disponible en el lugar.",
+    "items": [
+      {
+        "name": "Baños y punto de servicios",
+        "description": "En la entrada hay baños y un punto de información al visitante: la última parada para preguntar y abastecerse antes de salir a los senderos."
+      },
+      {
+        "name": "Estacionamiento",
+        "description": "El estacionamiento principal cobra según el tipo de vehículo. Los fines de semana y feriados se llena rápido; conviene llegar temprano."
+      },
+      {
+        "name": "Restaurantes y comida",
+        "description": "Hay opciones de comida ligera, snacks y café dentro y cerca del parque para descansar tras el recorrido; llevar tu propia comida y agua es lo más seguro."
+      },
+      {
+        "name": "Alojamiento",
+        "description": "En el parque y sus alrededores hay cabañas y zonas de campamento; para más servicios, busca en los pueblos del valle y confirma que estén abiertos antes de reservar."
+      },
+      {
+        "name": "Tiendas y supermercados",
+        "description": "En los pueblos de abajo hay supermercados y tiendas de conveniencia: compra snacks y agua antes de subir la montaña."
+      },
+      {
+        "name": "Combustible y carga eléctrica",
+        "description": "El acceso es por carretera de montaña: llena el tanque en el valle. Si conduces eléctrico, confirma de antemano el tipo de carga y las estaciones más cercanas."
+      },
+      {
+        "name": "Salud y emergencias",
+        "description": "Los recursos médicos en la montaña son limitados: lleva tus medicamentos y llama a los números de emergencia locales si lo necesitas."
+      }
+    ]
+  },
+  "seasons": {
+    "title": "Guía de visita por temporadas",
+    "subtitle": "El clima a largo plazo, resumido en clima, naturaleza y experiencia, para elegir la mejor época para tu visita.",
+    "colHeaders": [
+      "Temporada",
+      "Clima",
+      "Naturaleza y vida silvestre",
+      "Consejos de visita"
+    ],
+    "rows": [
+      {
+        "title": "Temporada seca",
+        "window": "Noviembre – Abril",
+        "weather": "Mayormente despejado, pocas lluvias y gran visibilidad; sol fuerte en la cumbre y mañanas y noches notablemente frescas.",
+        "nature": "El bosque nuboso está más seco y los miradores más despejados: panorámicas completas de los volcanes y el lago.",
+        "advice": "La mejor época. Entre las 8 y las 9 de la mañana hay menos nubes: organiza las caminatas y miradores para la mañana."
+      },
+      {
+        "title": "Temporada lluviosa",
+        "window": "Mayo – Octubre",
+        "weather": "Ritmo de mañanas despejadas y aguaceros por la tarde; aire húmedo y lluvias casi siempre breves.",
+        "nature": "La vegetación y las orquídeas están en su máximo esplendor, las cascadas llevan agua y las aves están activas: el año más verde.",
+        "advice": "Entra por la mañana y lleva chaqueta impermeable; si llueve, espera en la zona de visitantes o en un edificio."
+      }
+    ],
+    "note": "Son promedios a largo plazo. Para un día concreto, revisa el clima en vivo y el pronóstico de 7 días al inicio de esta página."
+  },
+  "personas": {
+    "title": "Planes según cómo viajas",
+    "subtitle": "Con niños, para fotografiar o a paso tranquilo: el bosque nuboso se adapta a tu ritmo.",
+    "timeLabel": "Tiempo sugerido",
+    "levelLabel": "Nivel físico",
+    "items": [
+      {
+        "name": "Familias con niños",
+        "audience": "Familias",
+        "time": "Unas 3–4 horas",
+        "level": "Fácil",
+        "summary": "Miradores, un circuito corto por el bosque nuboso y un picnic: un ritmo relajado que deja tiempo para observar orquídeas, aves y mariposas.",
+        "points": [
+          "Empieza en el mirador principal: a los niños les encanta el cono perfecto del volcán Izalco",
+          "Recorre el circuito corto del bosque nuboso (unos 40 minutos); en senderos húmedos ve de la mano",
+          "Lleva snacks y mucha agua; reabastece en la zona de picnic",
+          "Calzado de agarre y manga larga para el sol; una chaqueta ligera para el viento"
+        ]
+      },
+      {
+        "name": "Fotografía y naturaleza",
+        "audience": "Fotógrafos · Naturaleza",
+        "time": "Medio día a día completo",
+        "level": "Moderado",
+        "summary": "Mar de nubes al amanecer, luces de la tarde entre los árboles, orquídeas y colibríes: dale tiempo al bosque y te recompensará.",
+        "points": [
+          "De 6 a 9 de la mañana es la mejor ventana para nubes y luz suave: llega temprano a tu lugar",
+          "Teleobjetivo para volcanes y aves; macro para orquídeas y rocío",
+          "El viento en la cumbre es constante: usa un trípode firme y asegura el parasol",
+          "La luz nublada es excelente para el interior del bosque: no esperes solo al cielo azul"
+        ]
+      },
+      {
+        "name": "Paso tranquilo y accesibilidad",
+        "audience": "Adultos mayores · Movilidad reducida",
+        "time": "Unas 2–3 horas",
+        "level": "Bajo",
+        "summary": "El estacionamiento principal queda cerca de los miradores clave, así que con poca caminata hay vistas amplias; aun así es terreno de montaña con pendientes en algunos senderos: ve a tu ritmo.",
+        "points": [
+          "Estaciona en el área principal y toma la ruta más corta a los miradores",
+          "Lleva un asiento o bastón y descansa con frecuencia",
+          "Para sillas de ruedas o andadores, consulta antes con el punto de información qué tramos son accesibles",
+          "Las mañanas y los días húmedos son más fríos: abrígate y cuida el piso resbaladizo"
+        ]
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Rutas generales recomendadas",
+    "subtitle": "Dos rutas probadas: una para quien tiene poco tiempo y otra para una visita más profunda.",
+    "timeLabel": "Tiempo estimado",
+    "levelLabel": "Intensidad",
+    "plans": [
+      {
+        "title": "Ruta esencial de medio día",
+        "time": "Unas 4 horas",
+        "level": "Baja–moderada",
+        "summary": "Lo mejor en poco tiempo: circuito corto por el bosque nuboso, panorámica del mirador principal y un picnic con vistas, sin prisa.",
+        "steps": [
+          "Llega antes de las 8:00 (más fácil estacionar y menos nubes por la mañana)",
+          "Calienta en el sendero corto del bosque nuboso (unos 40 minutos)",
+          "Disfruta el panorama de Izalco, Santa Ana y el Lago de Coatepeque desde el mirador principal (unos 40 minutos)",
+          "Descansa y repón energía en la zona de picnic o en un café",
+          "Da una última mirada desde el mirador cercano a la salida, recoge tus cosas y vuelve"
+        ]
+      },
+      {
+        "title": "Ruta profunda de día completo",
+        "time": "Unas 8–9 horas",
+        "level": "Alta",
+        "summary": "Si tu condición lo permite, sube con guía al volcán de Santa Ana o al Izalco usando el Cerro Verde como base.",
+        "steps": [
+          "Llega a las 7:30 y confirma con el guía la hora de encuentro y el equipo necesario",
+          "Asciende el volcán vecino con tu guía (unas 4–6 horas ida y vuelta, incluida la cumbre)",
+          "Al bajar, almuerza y descansa; repón agua",
+          "Vuelve al Cerro Verde por la tarde para un sendero corto o el mirador con la luz cambiante",
+          "Termina antes del atardecer y reserva tiempo para el viaje de regreso"
+        ]
+      }
+    ],
+    "tips": [
+      "En la altitud camina despacio y bebe agua en sorbos frecuentes",
+      "En la temporada seca las mañanas pueden bajar a 10–12°C: lleva capas",
+      "En la época lluviosa camina por la mañana y deja la tarde flexible",
+      "Camina solo por senderos oficialmente abiertos, fuera de la vegetación",
+      "El ascenso a los volcanes debe ser con guía autorizado: nunca solo"
+    ]
+  },
+  "science": {
+    "title": "Ciencia del bosque nuboso y responsabilidad del visitante",
+    "subtitle": "Entiende el bosque nuboso antes de visitarlo y cada paso será más ligero.",
+    "topics": [
+      {
+        "title": "De dónde viene la nube",
+        "body": "El aire húmedo del Pacífico asciende por la montaña, se enfría y se condensa en las nubes que envuelven la cumbre gran parte del año: de ahí el nombre del bosque nuboso. La humedad alimenta musgos, helechos y orquídeas sobre cada tronco y mantiene el suelo blando y húmedo."
+      },
+      {
+        "title": "Un bosque nacido sobre un volcán dormido",
+        "body": "El Cerro Verde es un volcán dormido desde hace mucho; con los milenios, la meteorización formó suelo y las laderas se cubrieron de bosque. El vecino volcán de Santa Ana sigue activo: juntos forman un aula natural sobre el ciclo de vida de los volcanes."
+      },
+      {
+        "title": "Un oasis en el corredor migratorio",
+        "body": "Centroamérica es un corredor clave para las especies que se mueven entre las Américas, y los bosques nubosos son oasis en el camino: orquídeas, bromelias, colibríes y aves migratorias dependen de estos bosques húmedos de montaña."
+      }
+    ],
+    "dutyTitle": "La responsabilidad de cada visitante",
+    "duties": [
+      "Camina solo por senderos oficialmente abiertos y nunca sobre la vegetación",
+      "No cortes orquídeas ni plantas; no molestes ni alimentes a la fauna",
+      "Lleva contigo toda tu basura: no dejes rastro",
+      "No cruces las barandas en el borde del cráter ni en los miradores del acantilado",
+      "Durante tormentas o viento fuerte, sigue las indicaciones del parque y retírate a tiempo"
+    ],
+    "note": "Llévate la belleza en la memoria — y deja solo huellas en el sendero."
+  },
+  "stories": {
+    "title": "El nombre del Cerro Verde: una leyenda del valle",
+    "text": "Cerro Verde significa “Montaña Verde”. En los relatos que se transmiten de generación en generación, este volcán dormido, siempre envuelto en nubes y verdor, es recordado como un guardián que protege el Lago de Coatepeque y la llanura volcánica que se extiende abajo. Cuando el Izalco rugía en la noche e iluminaba el cielo, la gente miraba al Cerro Verde — aún tranquilo con su verde —, un recordatorio de que esta tierra, por inquieta que sea, también es rica y merece cuidarse. Hoy es parque nacional, donde siguen creciendo orquídeas, pinos y el canto infinito de las aves, llevando ese verde de leyenda a la conservación real."
+  },
+  "seo": {
+    "crumbLabel": "Jerarquía geográfica",
+    "aboutTitle": "Acerca del Parque Natural Cerro Verde (Santa Ana)",
+    "aboutLead": "Bienvenido al **Parque Natural Cerro Verde**, ampliamente reconocido como el destino del parque nacional **Cerro Verde**. Ubicado en el corazón de **Santa Ana**, **Departamento de Santa Ana**, **El Salvador**, este destino es un punto de partida clave para los viajeros que visitan la región. El parque se asienta sobre un volcán extinto a unos 2.030 metros de altitud, protege un exuberante bosque nuboso y ofrece miradores panorámicos sobre el Volcán de Izalco, el Volcán de Santa Ana y el Lago de Coatepeque.",
+    "crumbs": [
+      "Parque Natural Cerro Verde",
+      "Santa Ana",
+      "Departamento de Santa Ana",
+      "El Salvador"
+    ],
+    "nearbyTitle": "Atracciones y Puntos de Interés Alrededor de Cerro Verde",
+    "nearbySubtitle": "Lugares de interés accesibles desde el Parque Natural Cerro Verde",
+    "nearbyIntro": "Al visitar el **Parque Natural Cerro Verde**, los visitantes pueden explorar fácilmente los hitos naturales cercanos, incluyendo el **Volcán de Santa Ana** y el **Volcán de Izalco**.",
+    "nearby": [
+      {
+        "name": "Volcán de Santa Ana (Volcán Ilamatepec)",
+        "description": "El volcán más alto de El Salvador (2.381 m) y vecino directo del parque. Desde Cerro Verde se puede realizar una caminata guiada hasta el cráter, una de las experiencias volcánicas más gratificantes del país."
+      },
+      {
+        "name": "Volcán de Izalco",
+        "description": "Un cono joven y casi perfecto apodado el 'Faro del Pacífico'. Los miradores del parque ofrecen algunas de las mejores panorámicas de su silueta icónica."
+      },
+      {
+        "name": "Lago de Coatepeque",
+        "description": "Un enorme lago de cráter volcánico a pocos minutos en coche del parque, ideal para nadar, pasear en bote y relajarse después de una mañana explorando Cerro Verde."
+      }
+    ],
+    "faqTitle": "Preguntas Frecuentes",
+    "faqSubtitle": "Todo lo que necesita saber antes de visitar el Parque Natural Cerro Verde",
+    "faq": [
+      {
+        "q": "¿Dónde se encuentra el Parque Natural Cerro Verde?",
+        "a": "El Parque Natural Cerro Verde se encuentra en el Departamento de Santa Ana, El Salvador, a unos 77 km de San Salvador. El código plus de Google Maps es R9GG+84V, Santa Ana, El Salvador."
+      },
+      {
+        "q": "¿Es gratuito visitar Cerro Verde?",
+        "a": "No, el Parque Natural Cerro Verde cobra una tarifa de entrada fijada por el Instituto Salvadoreño de Turismo (ISTU): US$1.50 para nacionales y US$3.00 para extranjeros. El parqueo cuesta US$1.00 para vehículos livianos y US$2.00 para vehículos pesados. Las tarifas pueden cambiar, así que consulte el anuncio oficial antes de su visita."
+      },
+      {
+        "q": "¿Cuál es la mejor época para visitar el Parque Natural Cerro Verde?",
+        "a": "La mejor época es la temporada seca (de noviembre a abril), especialmente por la mañana cuando el cielo está más despejado y se pueden ver en todo su esplendor el Volcán de Izalco, el Volcán de Santa Ana y el Lago de Coatepeque."
+      },
+      {
+        "q": "¿Necesito un guía para escalar los volcanes desde Cerro Verde?",
+        "a": "Sí, se requieren caminatas guiadas para escalar volcanes cercanos como el Volcán de Santa Ana y el Volcán de Izalco. Los guías pueden contratarse en el parque y se agradece la propina."
+      },
+      {
+        "q": "¿Cómo llego al Parque Natural Cerro Verde desde San Salvador?",
+        "a": "El parque está a unos 77 km de San Salvador. La mayoría de los visitantes conducen o alquilan un automóvil y siguen la navegación hasta el Parque Natural Cerro Verde. Los autobuses públicos desde Santa Ana o Sonsonate también llegan a la zona."
+      },
+      {
+        "q": "¿Cuánto tiempo debo dedicar al Parque Natural Cerro Verde?",
+        "a": "Medio día es suficiente para caminar por los senderos del bosque nuboso y disfrutar de los miradores. Reserve un día completo si también planea un ascenso guiado al Volcán de Santa Ana o al Volcán de Izalco."
+      }
+    ],
+    "sourcesTitle": "Fuentes y Referencias",
+    "sourcesSubtitle": "Fuentes oficiales y de referencia utilizadas para elaborar esta guía",
+    "sourcesNote": "Para obtener actualizaciones oficiales e información turística regional, visite el <a href='https://elsalvador.travel/esp/' target='_blank' rel='noopener noreferrer'>Portal Oficial de Turismo de El Salvador</a>.",
+    "sources": [
+      {
+        "name": "Anuncio Oficial de Tarifas y Horarios del ISTU (Parques Recreativos)",
+        "url": "https://istu.gob.sv/blog/2026/01/02/tarifas-y-horarios-en-los-parques-recreativos/"
+      },
+      {
+        "name": "Ministerio de Turismo de El Salvador (MITUR)",
+        "url": "https://elsalvador.travel/esp/"
+      },
+      {
+        "name": "Google Maps - Parque Natural Cerro Verde",
+        "url": "https://maps.app.goo.gl/KcX4LexdqM6CahTi6"
+      }
+    ]
   }
 }

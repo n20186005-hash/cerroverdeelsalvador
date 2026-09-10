@@ -3,28 +3,12 @@
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photoFiles = [
-  'parque-natural-cerro-verde (1).jpg',
-  'parque-natural-cerro-verde (2).jpg',
-  'parque-natural-cerro-verde (3).jpg',
-  'parque-natural-cerro-verde (4).jpg',
-  'parque-natural-cerro-verde (5).jpg',
-  'parque-natural-cerro-verde (6).jpg',
-  'parque-natural-cerro-verde (7).jpg',
-  'parque-natural-cerro-verde (8).jpg',
-  'parque-natural-cerro-verde (9).jpg',
-  'parque-natural-cerro-verde (10).jpg',
-  'parque-natural-cerro-verde (11).jpg',
-  'parque-natural-cerro-verde (12).jpg',
-  'parque-natural-cerro-verde (13).jpg',
-  'parque-natural-cerro-verde (14).jpg',
-  'parque-natural-cerro-verde (15).jpg',
-  'parque-natural-cerro-verde (16).jpg',
-  'parque-natural-cerro-verde (17).jpg',
-  'parque-natural-cerro-verde (18).jpg',
-  'parque-natural-cerro-verde (19).jpg',
-  'parque-natural-cerro-verde (20).jpg',
-];
+// 照片命名规范：{英文景点名}-{序号}.jpg（序号从 1 开始，与 public/gallery 实际文件一一对应）
+const TOTAL_PHOTOS = 14;
+const photoFiles = Array.from(
+  { length: TOTAL_PHOTOS },
+  (_, i) => `parque-natural-cerro-verde-${i + 1}.jpg`
+);
 
 export default function Gallery() {
   const t = useTranslations('gallery');

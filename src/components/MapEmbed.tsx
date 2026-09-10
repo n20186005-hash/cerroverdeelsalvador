@@ -1,8 +1,9 @@
 import { useTranslations } from 'next-intl';
+import { site } from '@/config/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const mapsUrl = "https://maps.app.goo.gl/KcX4LexdqM6CahTi6";
+  const mapsUrl = site.mapsUrl;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -22,17 +23,16 @@ export default function MapEmbed() {
           style={{ border: '1px solid var(--map-border)' }}
         >
           {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
+            Google Maps 官方嵌入链接（景点最新收录，定位精确到 Parque Natural Cerro Verde）
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Parque+Natural+Cerro+Verde,+El+Salvador&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={site.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Parque Natural Cerro Verde"
           />
         </div>
