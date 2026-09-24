@@ -9,9 +9,8 @@ const nextConfig: NextConfig = {
       { protocol: 'https' as const, hostname: 'images.unsplash.com' },
     ],
   },
-  // 确保静态导出时正确处理图片路径
-  output: 'export',
-  distDir: 'out',
+  // OpenNext for Cloudflare 需要 standalone 输出才能生成 .next/standalone/.next/server/pages-manifest.json
+  output: 'standalone',
   // 解决多lockfile警告
   outputFileTracingRoot: process.cwd(),
 };
