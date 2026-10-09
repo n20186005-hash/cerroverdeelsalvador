@@ -118,7 +118,7 @@ export default async function LocaleLayout({
     description: `Comprehensive visitor guide to ${site.fullName} in ${site.city}, ${site.region}, ${site.country}. National park on an extinct volcano with cloud forest and viewpoints over ${site.landmark1} and ${site.landmark2}.`,
     url: site.baseUrl,
     image: [heroImageUrl],
-    isAccessibleForFree: true,
+    isAccessibleForFree: false,
     telephone: site.phone,
     address: {
       '@type': 'PostalAddress',

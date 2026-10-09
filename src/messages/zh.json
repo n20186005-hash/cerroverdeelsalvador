@@ -11,11 +11,29 @@
     "map": "地图",
     "backToHome": "返回首页"
   },
+  "visitorInfo": {
+    "title": "游客信息",
+    "subtitle": "规划绿山国家公园（Parque Natural Cerro Verde）之行所需的关键信息",
+    "hoursLabel": "开放时间",
+    "hoursValue": "上午 8:00 – 晚上 8:00",
+    "hoursNote": "每日开放",
+    "entryLabel": "门票",
+    "entryValue": "US$1.50 / US$3.00",
+    "entryNote": "本国居民 / 外国游客",
+    "parkingLabel": "停车",
+    "parkingValue": "US$1 / US$2",
+    "parkingNote": "小型车 / 大型车",
+    "locationLabel": "位置",
+    "locationValue": "圣安娜，萨尔瓦多",
+    "locationNote": "R9GG+84V · 距圣萨尔瓦多 77 公里",
+    "verifyNote": "票价与开放时间依据 ISTU（2026 年）官方信息；出行前请以官方渠道为准。",
+    "ctaLabel": "如何到达与地图"
+  },
   "hero": {
     "title": "Parque Natural Cerro Verde（圣安娜）",
     "subtitle": "绿山国家公园 · 圣安娜省 · 萨尔瓦多",
     "rating": "4.7",
-    "reviewCount": "6,892",
+    "reviewCount": "6,910",
     "hours": "国家公园",
     "openMaps": "查看位置",
     "imageAlt": "Parque Natural Cerro Verde（绿山国家公园）- 圣安娜、萨尔瓦多的主视图"
@@ -166,58 +184,9 @@
   },
   "reviews": {
     "title": "游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
-    "moreReviews": "在 Google Maps 查看更多评价",
-    "items": [
-      {
-        "name": "Carlos Rivera",
-        "date": "2个月前",
-        "rating": 5,
-        "text": "一个充满自然美景的地方。公园的山景令人难忘，强烈推荐给所有喜欢大自然的游客。"
-      },
-      {
-        "name": "María González",
-        "date": "3周前",
-        "rating": 5,
-        "text": "令人惊叹的自然公园。山景非常壮观，这里是萨尔瓦多自然风光的重要组成部分。"
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "1个月前",
-        "rating": 4,
-        "text": "非常有趣的地方，可以亲近真正的大自然。建议白天前往，那时候光线最好。"
-      },
-      {
-        "name": "Ana Torres",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "萨尔瓦多自然的重要组成部分。公园的景色令人感动，这里是圣安娜省必去的地方。"
-      },
-      {
-        "name": "Roberto Silva",
-        "date": "2年前",
-        "rating": 4,
-        "text": "很好的自然体验。山景非常精彩，周边还有很多自然景观。"
-      },
-      {
-        "name": "Sofía Méndez",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "美丽的公园，充满了萨尔瓦多自然的魅力。山景令人难忘，一定要来体验。"
-      },
-      {
-        "name": "Miguel Herrera",
-        "date": "3个月前",
-        "rating": 4,
-        "text": "有趣的自然场所。可以近距离感受大自然，建议保护环境。"
-      },
-      {
-        "name": "Laura Vargas",
-        "date": "1个月前",
-        "rating": 5,
-        "text": "圣安娜省的自然瑰宝。Cerro Verde 是了解萨尔瓦多自然的重要场所，一定要来体验。"
-      }
-    ]
+    "declaration": "评分来自 Google Maps 的聚合数据（外部来源）。本网站不收集或发布自有评价。",
+    "sourceNote": "评分经 Google Maps 核实 · {count} 条评价",
+    "moreReviews": "在 Google Maps 查看评价"
   },
   "mapSection": {
     "title": "绿山国家公园的位置与前往方式（圣安娜）",
@@ -538,7 +507,8 @@
           "清晨 6–9 点是云海与顺光最佳窗口，可先占位主观景台",
           "长焦拍火山与飞鸟，微距留给兰花与露珠",
           "山顶常年有风，拍摄请用稳一点的三脚架并收好遮光罩",
-          "阴天散射光其实更适合拍云雾林内景，不必强等晴天"
+          "阴天散射光其实更适合拍云雾林内景，不必强等晴天",
+          "公园上午 8:00 开放，云雾林步道自此方可进入。若想拍日出或攀登火山，请提前与向导确认集合时间。"
         ]
       },
       {
@@ -568,7 +538,7 @@
         "level": "中低",
         "summary": "把时间花在最值得的地方：云雾林短环线 + 主观景台火山全景 + 观景野餐，不赶路。",
         "steps": [
-          "清晨 8:00 前抵达入园（早到车位充足、云雾最少）",
+          "清晨 8:00 公园开放前后抵达入园（早到车位充足、云雾最少）",
           "云雾林短步道轻松热身（约 40 分钟）",
           "主观景台欣赏伊萨尔科火山、圣安娜火山与科阿特佩克湖全景（约 40 分钟）",
           "在野餐区或咖啡休憩点补充能量",

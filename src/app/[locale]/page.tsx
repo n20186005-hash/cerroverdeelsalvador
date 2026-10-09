@@ -1,6 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import VisitorInfo from '@/components/VisitorInfo';
 import Intro from '@/components/Intro';
 import WeatherSection from '@/components/WeatherSection';
 import AboutSection from '@/components/AboutSection';
@@ -52,6 +53,7 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <VisitorInfo />
         <Intro />
         <WeatherSection locale={locale} initial={initialWeather} />
         <AboutSection />

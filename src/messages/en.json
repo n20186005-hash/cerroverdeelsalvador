@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parque Natural Cerro Verde (Santa Ana) - Visitor Guide & Location",
-    "description": "Discover Parque Natural Cerro Verde, the iconic national park in Santa Ana, Santa Ana Department, El Salvador. View the location map, opening hours, entrance fees, nearby Santa Ana Volcano and Izalco Volcano, and travel tips."
+    "title": "Cerro Verde National Park, El Salvador | Hours, Fees & Hiking",
+    "description": "Visit Cerro Verde National Park in Santa Ana, El Salvador. Check entrance fees, opening hours, how to get there, viewpoints and hiking trails."
   },
   "header": {
     "home": "Home",
@@ -11,11 +11,29 @@
     "map": "Map",
     "backToHome": "Back to Home"
   },
+  "visitorInfo": {
+    "title": "Visitor Information",
+    "subtitle": "Everything you need to plan your visit to Parque Natural Cerro Verde",
+    "hoursLabel": "Hours",
+    "hoursValue": "8:00 a.m. – 8:00 p.m.",
+    "hoursNote": "Every day",
+    "entryLabel": "Entrance",
+    "entryValue": "US$1.50 / US$3.00",
+    "entryNote": "Nationals / Foreigners",
+    "parkingLabel": "Parking",
+    "parkingValue": "US$1 / US$2",
+    "parkingNote": "Light / Heavy vehicles",
+    "locationLabel": "Location",
+    "locationValue": "Santa Ana, El Salvador",
+    "locationNote": "R9GG+84V · 77 km from San Salvador",
+    "verifyNote": "Fees and hours per ISTU (2026); confirm via official channels before your visit.",
+    "ctaLabel": "How to get there & map"
+  },
   "hero": {
-    "title": "Parque Natural Cerro Verde (Santa Ana)",
+    "title": "Cerro Verde National Park, Santa Ana, El Salvador",
     "subtitle": "Cerro Verde Natural Park · Santa Ana, El Salvador",
     "rating": "4.7",
-    "reviewCount": "6,892",
+    "reviewCount": "6,910",
     "hours": "National Park",
     "openMaps": "View Location",
     "imageAlt": "Parque Natural Cerro Verde - Main view in Santa Ana, El Salvador"
@@ -165,59 +183,10 @@
     "showAllPhotos": "Show All Photos"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
-    "items": [
-      {
-        "name": "Carlos Rivera",
-        "date": "2 months ago",
-        "rating": 5,
-        "text": "A place full of natural beauty. The mountain views of the park are unforgettable, highly recommended for all tourists who love nature."
-      },
-      {
-        "name": "María González",
-        "date": "3 weeks ago",
-        "rating": 5,
-        "text": "Amazing natural park. The mountain views are very spectacular. This is an important part of El Salvador's natural scenery."
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "1 month ago",
-        "rating": 4,
-        "text": "Very interesting place to get close to real nature. Daytime visits recommended when the light is best."
-      },
-      {
-        "name": "Ana Torres",
-        "date": "Over 6 months ago",
-        "rating": 5,
-        "text": "An important part of El Salvador's nature. The scenery of the park is moving, a must-visit place in Santa Ana Department."
-      },
-      {
-        "name": "Roberto Silva",
-        "date": "2 years ago",
-        "rating": 4,
-        "text": "Great natural experience. The mountain views are wonderful, and there are many natural landscapes nearby."
-      },
-      {
-        "name": "Sofía Méndez",
-        "date": "Over 6 months ago",
-        "rating": 5,
-        "text": "Beautiful park, full of the charm of El Salvador's nature. The mountain views are unforgettable, definitely worth a visit."
-      },
-      {
-        "name": "Miguel Herrera",
-        "date": "3 months ago",
-        "rating": 4,
-        "text": "Interesting natural venue. Experience nature up close, recommend protecting the environment."
-      },
-      {
-        "name": "Laura Vargas",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "Natural gem of Santa Ana Department. Cerro Verde is an important place to understand El Salvador's nature, definitely worth experiencing."
-      }
-    ]
+    "title": "Visitor Opinions",
+    "declaration": "Aggregated Google Maps rating (external source). This site does not collect or publish its own reviews.",
+    "sourceNote": "Rating verified on Google Maps · {count} reviews",
+    "moreReviews": "View reviews on Google Maps"
   },
   "mapSection": {
     "title": "Location & How to Visit Cerro Verde in Santa Ana",
@@ -538,7 +507,8 @@
           "6–9 a.m. is the best window for cloud seas and soft light — claim your spot early",
           "Telephoto for volcanoes and birds; macro for orchids and dew",
           "Summit winds are constant: use a sturdy tripod and keep lens hoods secure",
-          "Overcast light is actually great for the forest interior — don't wait only for blue skies"
+          "Overcast light is actually great for the forest interior — don't wait only for blue skies",
+          "The park opens at 8:00 a.m.; the cloud-forest trails are walked from then on. For sunrise shots or to climb the volcanoes, confirm the guide meet-up time in advance."
         ]
       },
       {
@@ -568,7 +538,7 @@
         "level": "Low–moderate",
         "summary": "Focus on the best of it: a short cloud-forest loop, the main viewpoint panorama and a scenic picnic — no rush.",
         "steps": [
-          "Arrive before 8:00 a.m. (easier parking, thinnest morning cloud)",
+          "Arrive around 8:00 a.m., when the park opens (easier parking, thinnest morning cloud)",
           "Warm up on the short cloud-forest trail (about 40 minutes)",
           "Enjoy the panorama of Izalco, Santa Ana and Lake Coatepeque from the main viewpoint (about 40 minutes)",
           "Recharge at the picnic area or a coffee spot",

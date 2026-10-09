@@ -42,9 +42,9 @@ export const site = {
   phone: '+50372947255',
   plusCode: 'R9GG+84V El Salvador',
 
-  // 评分（Google 最新）
+  // 评分（Google 最新，2026-10）
   rating: '4.7',
-  reviewCount: '6,892',
+  reviewCount: '6,910',
 
   // GA4
   ga4Id: 'G-HXM22WWPKP',

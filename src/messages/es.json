@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parque Natural Cerro Verde (Santa Ana) - Guía del Visitante y Ubicación",
-    "description": "Descubre el Parque Natural Cerro Verde, el icónico parque nacional en Santa Ana, Departamento de Santa Ana, El Salvador. Consulta el mapa de ubicación, horarios de apertura, tarifas de entrada, los cercanos volcanes de Santa Ana e Izalco y consejos de viaje."
+    "title": "Parque Natural Cerro Verde: Precios, Horarios y Cómo Llegar",
+    "description": "Visita el Parque Natural Cerro Verde en Santa Ana, El Salvador. Consulta precios de entrada, horarios, cómo llegar, miradores y rutas de senderismo."
   },
   "header": {
     "home": "Inicio",
@@ -11,11 +11,29 @@
     "map": "Mapa",
     "backToHome": "Volver al Inicio"
   },
+  "visitorInfo": {
+    "title": "Información para visitantes",
+    "subtitle": "Lo esencial para planear tu visita al Parque Natural Cerro Verde",
+    "hoursLabel": "Horario",
+    "hoursValue": "8:00 a. m. – 8:00 p. m.",
+    "hoursNote": "Todos los días",
+    "entryLabel": "Entrada",
+    "entryValue": "US$1.50 / US$3.00",
+    "entryNote": "Nacionales / Extranjeros",
+    "parkingLabel": "Estacionamiento",
+    "parkingValue": "US$1 / US$2",
+    "parkingNote": "Vehículos livianos / pesados",
+    "locationLabel": "Ubicación",
+    "locationValue": "Santa Ana, El Salvador",
+    "locationNote": "R9GG+84V · a 77 km de San Salvador",
+    "verifyNote": "Tarifas y horarios según el ISTU (2026); confirma en los canales oficiales antes de tu visita.",
+    "ctaLabel": "Cómo llegar y mapa"
+  },
   "hero": {
-    "title": "Parque Natural Cerro Verde (Santa Ana)",
+    "title": "Parque Natural Cerro Verde en Santa Ana, El Salvador",
     "subtitle": "Cerro Verde · Santa Ana, El Salvador",
     "rating": "4.7",
-    "reviewCount": "6,892",
+    "reviewCount": "6,910",
     "hours": "Parque Nacional",
     "openMaps": "Ver Ubicación",
     "imageAlt": "Parque Natural Cerro Verde - Vista principal en Santa Ana, El Salvador"
@@ -165,59 +183,10 @@
     "showAllPhotos": "Mostrar Todas las Fotos"
   },
   "reviews": {
-    "title": "Reseñas de Visitantes",
-    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
-    "moreReviews": "Ver Más Reseñas en Google Maps",
-    "items": [
-      {
-        "name": "Carlos Rivera",
-        "date": "hace 2 meses",
-        "rating": 5,
-        "text": "Un lugar lleno de belleza natural. Las vistas de montaña del parque son inolvidables, muy recomendable para todos los turistas que aman la naturaleza."
-      },
-      {
-        "name": "María González",
-        "date": "hace 3 semanas",
-        "rating": 5,
-        "text": "Parque natural asombroso. Las vistas de montaña son muy espectaculares. Esta es una parte importante de los paisajes naturales de El Salvador."
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "hace 1 mes",
-        "rating": 4,
-        "text": "Lugar muy interesante para acercarse a la verdadera naturaleza. Se recomiendan las visitas diurnas cuando la luz es mejor."
-      },
-      {
-        "name": "Ana Torres",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Una parte importante de la naturaleza de El Salvador. El paisaje del parque es conmovedor, un lugar imprescindible en el departamento de Santa Ana."
-      },
-      {
-        "name": "Roberto Silva",
-        "date": "hace 2 años",
-        "rating": 4,
-        "text": "Excelente experiencia natural. Las vistas de montaña son maravillosas, y hay muchos paisajes naturales cercanos."
-      },
-      {
-        "name": "Sofía Méndez",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Hermoso parque, lleno del encanto de la naturaleza de El Salvador. Las vistas de montaña son inolvidables, definitivamente vale la pena visitarlo."
-      },
-      {
-        "name": "Miguel Herrera",
-        "date": "hace 3 meses",
-        "rating": 4,
-        "text": "Lugar natural interesante. Experimento la naturaleza de cerca, recomiendo proteger el medio ambiente."
-      },
-      {
-        "name": "Laura Vargas",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "Gema natural del departamento de Santa Ana. Cerro Verde es un lugar importante para comprender la naturaleza de El Salvador, definitivamente vale la pena experimentarlo."
-      }
-    ]
+    "title": "Opiniones de los visitantes",
+    "declaration": "Calificación agregada de Google Maps (fuente externa). Este sitio no recopila ni publica reseñas propias.",
+    "sourceNote": "Calificación verificada en Google Maps · {count} opiniones",
+    "moreReviews": "Ver opiniones en Google Maps"
   },
   "mapSection": {
     "title": "Ubicación y Cómo Visitar Cerro Verde en Santa Ana",
@@ -538,7 +507,8 @@
           "De 6 a 9 de la mañana es la mejor ventana para nubes y luz suave: llega temprano a tu lugar",
           "Teleobjetivo para volcanes y aves; macro para orquídeas y rocío",
           "El viento en la cumbre es constante: usa un trípode firme y asegura el parasol",
-          "La luz nublada es excelente para el interior del bosque: no esperes solo al cielo azul"
+          "La luz nublada es excelente para el interior del bosque: no esperes solo al cielo azul",
+          "El parque abre a las 8:00; los senderos del bosque nuboso se recorren a partir de esa hora. Para fotos al amanecer o para ascender los volcanes, confirma el punto de encuentro con el guía de antemano."
         ]
       },
       {
@@ -568,7 +538,7 @@
         "level": "Baja–moderada",
         "summary": "Lo mejor en poco tiempo: circuito corto por el bosque nuboso, panorámica del mirador principal y un picnic con vistas, sin prisa.",
         "steps": [
-          "Llega antes de las 8:00 (más fácil estacionar y menos nubes por la mañana)",
+          "Llega cerca de las 8:00, cuando abre el parque (más fácil estacionar y menos nubes por la mañana)",
           "Calienta en el sendero corto del bosque nuboso (unos 40 minutos)",
           "Disfruta el panorama de Izalco, Santa Ana y el Lago de Coatepeque desde el mirador principal (unos 40 minutos)",
           "Descansa y repón energía en la zona de picnic o en un café",
